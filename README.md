@@ -30,8 +30,7 @@ alias sitescan="sudo python3 ~/SiteScan/sitescan.py'
 <h>and then do source .bashrc or .zshrc<h>
 <h2>then you can just execute sitescan command</h2>
 <br>
-<br>
-<br>
+
 <h1>conclusion</h1>
 <p>Some Site Have Restrictions
 Because of that tool is unable to fetch the links, they can't available for everyone, But it Can give The ip And Ports Of that domain</p>
