@@ -12,9 +12,8 @@ clone this to your machine
 <pre>
 <code>
 git clone https://github.com/0XERRORS/SiteScan.git
-<br>
 cd SiteScan
-<br>
+chmod +x sitescan.py
 python3 sitescan.py 
 </code>
 </pre>
