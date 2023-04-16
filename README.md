@@ -20,7 +20,7 @@ python3 sitescan.py
 <br>
 <h3>you can add this as Alias Command to use it more Efficiently </h3>
 <h>Type cd In your terminal or go in your home Folder where are bashrc or zshrc file located 
-make sure you clone the repo on root folder</h>
+and clone the repo</h>
 <h2>add this to your .bashrc or .zshrc in the last line</h2>
 <pre>
 <code>
