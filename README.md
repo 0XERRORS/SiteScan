@@ -11,7 +11,7 @@ About
 clone this to your machine
 <pre>
 <code>
-git clone https://github.com/0XERRORS/SiteScan.io
+git clone https://github.com/0XERRORS/SiteScan.git
 <br>
 cd SiteScan
 <br>
