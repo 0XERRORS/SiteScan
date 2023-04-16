@@ -35,5 +35,5 @@ alias sitescan="sudo python3 ~/SiteScan/sitescan.py'
 <br>
 <h1>conclusion</h1>
 <p>Some Site Have Restrictions
-Because of that tool is unable to fetch the links that are available for everyone, But it Can give The ip And Ports Of that domain</p>
+Because of that tool is unable to fetch the links, they can't available for everyone, But it Can give The ip And Ports Of that domain</p>
 <p>"im not sure im going to work on this and make more useable though" XD</p>
